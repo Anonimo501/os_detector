@@ -12,4 +12,8 @@ os_detector es un script que genere con inteligencias artificial (IA) que puede 
 
 ## Uso
 
-git clone 
+git clone https://github.com/Anonimo501/os_detector.git
+
+cd os_detector
+
+python3 os_detector.py
